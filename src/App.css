@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card{
+  border: 1px solid black;
+  width:18rem;
+  gap: 1rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  background-color: rgb(230, 219, 221);
+}
+
+.img{
+  border-radius: 4rem;
+  width: 6rem;
+}
+
+.name{
+  font-size: large;
+  font-weight: 100;
+}
